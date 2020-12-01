@@ -1,2 +1,2 @@
 # medical
-Projeto de sistema de chamados para uma clínica médica
+Projeto de sistema de chamados de clínica médica
