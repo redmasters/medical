@@ -21,8 +21,8 @@ will get to see the doctor. These details will be stored in the system.
 patient, a summary of the treatment is entered into the system and the patient is removed
 from the treatment list.
 Project Requirements:
-➢ Create a system to manage the A&E departments patient treatment as detailed above.
-➢ The project should be developed following good design principles.
+> Create a system to manage the A&E departments patient treatment as detailed above.
+> The project should be developed following good design principles.
 ➢ The system must offer data persistence for all patient details and all patient transactions.
 ➢ A text based console GUI must be provided to facilitate ease of use for the Doctors/Nurses/Receptionists.
 ➢ A Doubly Linked List (DLL) should be used to store patient information.
